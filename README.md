@@ -1,3 +1,4 @@
+![logo](https://github.com/student-Aryan/student-Aryan/blob/main/Banner.aryan.png)
 <h1 align="center">Hi 👋, I'm Aryan singh</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 
